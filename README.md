@@ -1,2 +1,3 @@
 # comandGit
-Dicas de comandos
+Dicas de comandos para melhor aproveitar o GitHub.
+
