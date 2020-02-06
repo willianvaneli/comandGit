@@ -1,0 +1,17 @@
+Digite a linha abaixo para remover a pasta e/ou os arquivos:
+
+$ git rm -r Arquivo Pasta
+
+Lembrando que arquivos ou pasta com espaço no nome devem ter seu nome entre aspas como no exemplo abaixo
+
+$ git rm -r "arquivo tal"
+
+
+Em seguida fazemos o commit da modificação:
+
+$ git commit -m "Remove Arquivo e Pasta"
+
+
+E finalmente: sincronizamos com o repositório remoto:
+
+$ git push
